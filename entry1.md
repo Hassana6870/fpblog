@@ -1,10 +1,9 @@
-Title
-SEP10 Freedom Project
-Name
+# Global Warming
+## SEP10 Freedom Project
+#### Name:**Hassan Ali**
 
-Context
-The “Freedom Project” for SEP10 is all about explain what the freedom project is. Don’t remember? Reread the description of it on the SEP Site.. The purpose of this blog is to (what is it that you are using the blog for. Remember - look at the Freedom Project description).
-
+### Context
+The “Freedom Project” for SEP10 is all about explain what the freedom project is. It's a project where we are research
 Content
 For my project, I am making a website about ___ using Github, HTML, CSS, and ___. This blog will walk through my process of independently studying ___ and ___ and making the website.
 

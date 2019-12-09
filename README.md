@@ -39,7 +39,7 @@ Each week there will be a new file to hold the new Blog Entry you write on Freed
 5. *Anywhere you see* _italics_ *replace that with your own words* (You can remove the italics formatting)
 
 ### TASK 2:
-
+s
 1. Create your overview file. Call it overview.md.
 2. Create your first daily file. Call it entry1.md
 

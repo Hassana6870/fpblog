@@ -1,7 +1,7 @@
-Today I ….. (Where are you at in the process of your product? See hstatsep.github.io/students/#edp)
+Today I set up my notes of the freedom project to be on GitHub.
 
-I learned ….  (What are you learning in class that applies directly to your project? How will you use the synthesis practice we did today on your project?)
+I learned that you can just copy and paste original files and upload them in GitHub.
 
-I used ….. (What sources did you use to learn that? Some days this will just be class instruction.)
+I used markdown and my writing abilities to finish my work.
 
-A skill that I used was ….. How are you developing in ways that apply outside of your project? See hstatsep.github.io/students/#skills
+A skill that I used was synthesizing ideas and finding main ideas.
